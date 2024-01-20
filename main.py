@@ -1,1 +1,1 @@
-gugugaga
+print('alekjrhnfv')
